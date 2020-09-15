@@ -1,0 +1,35 @@
+
+.container thead{
+    background:honeydew;
+}
+.container a {
+    text-decoration: none;
+}
+#QueryTable td{
+    cursor: pointer;
+}
+#QueryTable tr:hover{
+   color: black;
+}
+#QueryTable a {
+    text-decoration: none;
+}
+#QueryTable img{
+    width: 3%;
+    height: 25%;
+}
+#QueryTable img:hover{
+    width: 4%;
+    height: 26%;
+}
+#page {
+    margin-left: 15px;
+}
+a{
+    margin-left: 1%;
+}
+#page a {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 14px;
+}

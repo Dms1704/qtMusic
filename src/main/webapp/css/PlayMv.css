@@ -1,0 +1,14 @@
+#wrap {
+    width: 1521px;
+    height: 520px;
+    background: aliceblue;
+}
+.video_con {
+    width: 100%;
+    line-height: 250px;
+    text-align: center;
+}
+.video_con video {
+    width: 600px;
+    height: 502px;
+}
